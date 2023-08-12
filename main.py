@@ -16,14 +16,14 @@ ericas_string = """a nice mom"""
 nikhils_string = "This is nikhil's string"
 
 
-# print("This is Aidens number", aidens_number)
-# print("This is Nikhils number", nikhils_number)
+print("This is Aidens number", aidens_number)
+print("This is Nikhils number", nikhils_number)
 
-# print('This statement is...', nikhils_bool)
-# print('This statement is...', aidens_bool)
+print('This statement is...', nikhils_bool)
+print('This statement is...', aidens_bool)
 
-# print('Erica is',ericas_string)
-# print("this is nikhils_string", nikhils_string)
+print('Erica is',ericas_string)
+print("this is nikhils_string", nikhils_string)
 
 
 
@@ -44,10 +44,10 @@ shawn_range = range(1, 11, 4)
   
 
 
-# print('The three numbers are...', meghas_list)
+print('The three numbers are...', meghas_list)
 
-# print(ishwar_tuple)
-# print("Name and Age: ", name_age)
+print(ishwar_tuple)
+print("Name and Age: ", name_age)
 
-# print(list(aiden_range))
-# print(list(shawn_range))
+print(list(aiden_range))
+print(list(shawn_range))
