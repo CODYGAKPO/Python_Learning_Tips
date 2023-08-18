@@ -43,6 +43,14 @@ nikhils_range = range(2,21,2)
 print(list(nikhils_range))
 
 
+"""
+Accepting user input and type Conversions  
+  - Prompt the user to enter a number
+  - Store that number to a variable
+  - Add 15 to that value and store that result back in the *same* variable
+  - Print out the result
+"""
+
 
 
 

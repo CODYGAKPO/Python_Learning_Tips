@@ -25,8 +25,6 @@ nikhils_string = "This is nikhil's string"
 # print('Erica is',ericas_string)
 # print("this is nikhils_string", nikhils_string)
 
-
-
 # Sequence Data types
 # List value type
 # You use it to store values that are of the same type: homogenous
@@ -51,3 +49,27 @@ shawn_range = range(1, 11, 4)
 
 # print(list(aiden_range))
 # print(list(shawn_range))
+
+
+# aiden_var = '345'
+# print('Value of aiden_var: ', aiden_var, 'The Type of aiden_var: ', type(aiden_var))
+
+# aiden_var = int(aiden_var)
+# print('Value of aiden_var: ', aiden_var, 'The Type of aiden_var: ', type(aiden_var))
+
+# aiden_var = float(aiden_var)
+# print('Value of aiden_var: ', aiden_var, 'The Type of aiden_var: ', type(aiden_var))
+
+# aiden_var = str(aiden_var)
+# print('Value of aiden_var: ', aiden_var, 'The Type of aiden_var: ', type(aiden_var))
+
+# result = aiden_var + 10
+# print("The result of the operation of addint 10 to aiden_var is: ", result)
+
+
+var_1 = 123
+var_2 = 345
+
+print('The type of var_1: ', type(var_1), " The type of var_2: ", type(var_2))
+result = var_1 + var_2
+print(result)
